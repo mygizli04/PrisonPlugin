@@ -1,10 +1,12 @@
 package tech.sbeve.prisonplugin;
 
+import org.bukkit.plugin.java.JavaPlugin;
+
 /**
  * Hello world!
  *
  */
-public class App
+public class Main extends JavaPlugin
 {
     public static void main( String[] args )
     {

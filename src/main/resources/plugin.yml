@@ -1,0 +1,7 @@
+name: PrisonPlugin
+version: 1.0.0
+main: tech.sbeve.prisonplugin.Main
+description: Prison?!?!?1
+author: 'sbeve and JusteyCrustey'
+website: 'https://github.com/mygizli04/PrisonPlugin'
+api-version: '1.20'
